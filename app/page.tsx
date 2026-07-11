@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Home() {
   const playStoreUrl = 'https://play.google.com/store/apps/details?id=za.co.amaphisi.georura'
-  const apkUrl = '/downloads/georura-latest.apk' // direct APK for municipalities
+  const apkUrl = '/downloads/georura-v1.0.0.apk' // direct APK for municipalities
 
   return (
     <>
