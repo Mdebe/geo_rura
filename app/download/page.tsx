@@ -53,7 +53,7 @@ export default function DownloadPage() {
                   target="_blank"
                   rel="noopener"
                 >
-                  <img src="/play-store.svg" alt="" width="20" height="20" />
+                  <img src="/playstore.svg" alt="" width="20" height="20" />
                   Google Play
                 </a>
                 
@@ -92,7 +92,7 @@ export default function DownloadPage() {
                   target="_blank"
                   rel="noopener"
                 >
-                  <img src="/app-store.svg" alt="" width="20" height="20" />
+                  <img src="/app_logo.svg" alt="" width="20" height="20" />
                   App Store
                 </a>
                 

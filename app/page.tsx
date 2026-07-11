@@ -19,7 +19,7 @@ export default function Home() {
               <a href="#screenshots">Screenshots</a>
               <Link href="/privacy">Privacy</Link>
               <Link href="/terms">Terms</Link>
-              <a href="#download" className="btn btn-primary">Download</a>
+              <a href="/download" className="btn btn-primary">Download</a>
             </div>
           </nav>
         </div>
