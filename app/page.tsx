@@ -29,7 +29,7 @@ export default function Home() {
         <section className="hero">
           <div className="hero-bg">
             <Image 
-              src="/home.jpg" 
+              src="/home.png" 
               alt="Rural landscape South Africa"
               fill
               priority
